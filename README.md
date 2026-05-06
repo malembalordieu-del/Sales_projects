@@ -88,6 +88,7 @@ Provides a high-level snapshot of business performance.
 
 **Purpose:**  
 Identify overall business health and growth trends.
+![Overview](images/overview.JPG)
 
 ---
 
