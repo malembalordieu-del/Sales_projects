@@ -105,6 +105,7 @@ Focuses on product and category performance.
 **Purpose:**  
 Determine which products and categories drive profit versus those that erode margin.
 
+![Overview](Visualization/2.jpg)
 ---
 
 ### 3️⃣ Regional Performance
@@ -118,6 +119,8 @@ Analyzes geographic performance differences.
 
 **Purpose:**  
 Identify high-performing regions and areas requiring optimization.
+
+![Overview](Visualization/3.jpg)
 
 ---
 
